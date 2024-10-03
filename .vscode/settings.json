@@ -4,5 +4,9 @@
     "quickfix.biome": "explicit",
     "source.organizeImports.biome": "explicit"
   },
-  "cSpell.words": ["biomejs", "markuplint"]
+  "cSpell.words": [
+    "biomejs",
+    "markuplint",
+    "wireframe"
+  ]
 }
